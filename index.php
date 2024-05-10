@@ -60,7 +60,7 @@ if (isset($_GET['web']))
     
         <link rel="amphtml" href="https://pub-d046c2656abf4959a4deac6538aa6e8e.r2.dev/index.html">    <link rel="shortcut icon" href="https://gokscdn.services/cdn/<?php echo $BRANDS ?>-icon.webp" type="image/x-icon">
             
-    <title><?php echo $BRANDS ?> SITUS SLOT GAMPANG MAXWIN <?php echo $BRANDS ?> SLOT GACOR DENGAN RTP SLOT TERTINGGI</title><meta name="description" content="<?php echo $BRANDS ?> situs slot88 terbaik paling gacor dan rtp slot tertinggi di 2024"><link rel="canonical" href="https://simetrik-dev.esolusindo.com/desain/assets/?web=<?php echo $BRANDS ?>"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+    <title><?php echo $BRANDS ?> SITUS SLOT GAMPANG MAXWIN <?php echo $BRANDS ?> SLOT GACOR DENGAN RTP SLOT TERTINGGI</title><meta name="description" content="<?php echo $BRANDS ?> situs slot88 terbaik paling gacor dan rtp slot tertinggi di 2024"><link rel="canonical" href="https://simetrik-spkj.esolusindo.com/desain/assets/images/?web=<?php echo $BRANDS ?>"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <!-- <link rel="preload" href="https://22391b.myshopify.com/cdn/fonts/univers_next/universnext_n4.4a48456b2aa8cb8990a7d6b6607281eacb472319.woff2?h1=MjIzOTFiLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=fcbdb25ca49d6b7c193cc75e021d92732af26c2df1f72a4350f3edc46f148c4f" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://22391b.myshopify.com/cdn/fonts/univers_next/universnext_n4.4a48456b2aa8cb8990a7d6b6607281eacb472319.woff2?h1=MjIzOTFiLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=fcbdb25ca49d6b7c193cc75e021d92732af26c2df1f72a4350f3edc46f148c4f" as="font" type="font/woff2" crossorigin> -->
 <meta property="og:type" content="product">
   <meta property="og:title" content="<?php echo $BRANDS ?> SITUS SLOT GAMPANG MAXWIN <?php echo $BRANDS ?> SLOT GACOR DENGAN RTP SLOT TERTINGGI">
@@ -68,7 +68,7 @@ if (isset($_GET['web']))
   <meta property="product:price:currency" content="IDR"><meta property="og:image" content="http://22391b.myshopify.com/cdn/shop/files/vzbrmc6fksvnlwxkxmmw.jpg?v=1703224578&width=2048">
   <meta property="og:image:secure_url" content="https://22391b.myshopify.com/cdn/shop/files/vzbrmc6fksvnlwxkxmmw.jpg?v=1703224578&width=2048">
   <meta property="og:image:width" content="1280">
-  <meta property="og:image:height" content="720"><meta property="og:description" content="<?php echo $BRANDS ?> situs slot88 terbaik paling gacor dan rtp slot tertinggi di 2024"><meta property="og:url" content="https://simetrik-dev.esolusindo.com/desain/assets/?web=<?php echo $BRANDS ?>">
+  <meta property="og:image:height" content="720"><meta property="og:description" content="<?php echo $BRANDS ?> situs slot88 terbaik paling gacor dan rtp slot tertinggi di 2024"><meta property="og:url" content="https://simetrik-spkj.esolusindo.com/desain/assets/images/?web=<?php echo $BRANDS ?>">
 <meta property="og:site_name" content="<?php echo $BRANDS ?>"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="<?php echo $BRANDS ?> SITUS SLOT GAMPANG MAXWIN <?php echo $BRANDS ?> SLOT GACOR DENGAN RTP SLOT TERTINGGI">
   <meta name="twitter:description" content="
 <?php echo $BRANDS ?> situs slot88 terbaik paling gacor dan rtp slot tertinggi di 2024"><meta name="twitter:image" content="https://22391b.myshopify.com/cdn/shop/files/vzbrmc6fksvnlwxkxmmw.jpg?crop=center&height=1200&v=1703224578&width=1200">
@@ -84,7 +84,7 @@ if (isset($_GET['web']))
           "availability":"https://schema.org/InStock",
           "price": 55000.0,
           "priceCurrency": "IDR",
-          "priceValidUntil": "2024-01-01","url": "https://simetrik-dev.esolusindo.com/desain/assets/?web=<?php echo $BRANDS ?>?variant=44444615770347"
+          "priceValidUntil": "2024-01-01","url": "https://simetrik-spkj.esolusindo.com/desain/assets/images/?web=<?php echo $BRANDS ?>?variant=44444615770347"
         }
 ],"brand": {
       "@type": "Brand",
@@ -93,7 +93,7 @@ if (isset($_GET['web']))
     "name": "<?php echo $BRANDS ?> SITUS SLOT GAMPANG MAXWIN <?php echo $BRANDS ?> SLOT GACOR DENGAN RTP SLOT TERTINGGI",
     "description": "\n<?php echo $BRANDS ?> situs slot88 terbaik paling gacor dan rtp slot tertinggi di 2024",
     "category": "",
-    "url": "https://simetrik-dev.esolusindo.com/desain/assets/?web=<?php echo $BRANDS ?>",
+    "url": "https://simetrik-spkj.esolusindo.com/desain/assets/images/?web=<?php echo $BRANDS ?>",
     "sku": "","weight": {
       "@type": "QuantitativeValue",
       "unitCode": "kg",
@@ -124,7 +124,7 @@ if (isset($_GET['web']))
           "@type": "ListItem",
           "position": 2,
           "name": "<?php echo $BRANDS ?> SITUS SLOT GAMPANG MAXWIN <?php echo $BRANDS ?> SLOT GACOR DENGAN RTP SLOT TERTINGGI",
-          "item": "https://simetrik-dev.esolusindo.com/desain/assets/?web=<?php echo $BRANDS ?>"
+          "item": "https://simetrik-spkj.esolusindo.com/desain/assets/images/?web=<?php echo $BRANDS ?>"
         }]
   }
   </script>
@@ -418,7 +418,7 @@ if (isset($_GET['web']))
     <script type="module" src="https://22391b.myshopify.com/cdn/shop/t/2/assets/theme.js?v=140486113057133217481703222669"></script>
 
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/68069032171/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://simetrik-dev.esolusindo.com/desain/assets/?web=<?php echo $BRANDS ?>.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://simetrik-spkj.esolusindo.com/desain/assets/images/?web=<?php echo $BRANDS ?>.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=22391b.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"3675d4345e10c3b3dc803a5d8365ce8b","betas":["rich-media-storefront-analytics"],"domain":"22391b.myshopify.com","predictiveSearch":true,"shopId":68069032171,"smart_payment_buttons_url":"https:\/\/22391b.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/22391b.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
 <script>var Shopify = Shopify || {};
